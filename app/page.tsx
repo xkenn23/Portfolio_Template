@@ -2,6 +2,7 @@ import ParticlesBackground from './components/ParticlesBackground';
 import MainPanel from './components/MainPanel';
 import { Quattrocento, Roboto } from 'next/font/google';
 import SidePanel from './components/SidePanel';
+import React from 'react';
 
 // Correct variable name to reflect the font
 const quattrocento = Quattrocento({
