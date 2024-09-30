@@ -1,7 +1,6 @@
 import React from 'react';
 import { NAVIGATION, NavigationItem } from '../constants/Content';
 import Image from 'next/image';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const SidePanel = () => {
   return (
